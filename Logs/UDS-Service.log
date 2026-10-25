@@ -1,0 +1,49 @@
+
+Server arguments:
+  --memory-size 1073741824
+  --shared-postfix c944e93060257f9a14785d9ecb365bb2
+  --working-directory Library/DataStore
+  --silent-console
+  --shutdown-grace 0
+  --client-process-check 0
+  --uds-log-file C:/Users/beany/자료/07_Unity/littleCat/Logs/UDS-Service.log
+  --debug-log 2
+  -name
+  Unity.DataStore
+
+Initialising UDS system complete:
+  - System type: Service
+  - Resource namespace: c944e93060257f9a14785d9ecb365bb2
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+Starting Unity Data Store Application
+[Error] Failed to remove data for hash cd141d504527af1a462b48e4ed85f79e. Failure received from service
+0x00007ff77363c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff7735ffe85 (Unity.DataStore) uds_cleanup
+0x00007ff7735eee6f (Unity.DataStore) 
+0x00007ff7735f00bd (Unity.DataStore) 
+0x00007ff7735d7395 (Unity.DataStore) 
+0x00007ff7735d681a (Unity.DataStore) 
+0x00007ff7735d6aff (Unity.DataStore) 
+0x00007ff7735d28b5 (Unity.DataStore) 
+0x00007ff7736580e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007fffc5e2dda7 (KERNEL32) BaseThreadInitThunk
+0x00007fffc617ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 39c0272317eeea33430b98836236744d. Failure received from service
+0x00007ff77363c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff7735ffe85 (Unity.DataStore) uds_cleanup
+0x00007ff7735eee6f (Unity.DataStore) 
+0x00007ff7735f00bd (Unity.DataStore) 
+0x00007ff7735d7395 (Unity.DataStore) 
+0x00007ff7735d681a (Unity.DataStore) 
+0x00007ff7735d6aff (Unity.DataStore) 
+0x00007ff7735d28b5 (Unity.DataStore) 
+0x00007ff7736580e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007fffc5e2dda7 (KERNEL32) BaseThreadInitThunk
+0x00007fffc617ee4c (ntdll) RtlUserThreadStart
+
+Unity Data Store Application Complete
+Shut down UDS service system complete
