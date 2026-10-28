@@ -7,8 +7,7 @@ And you should mess with fragiles.
 <br>
 <br>
 <br>
-<br>
-#Controls:
+Controls:
 
 left, right arrow key to move horizontally
 
