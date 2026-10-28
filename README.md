@@ -6,7 +6,9 @@ And you should mess with fragiles.
 (I don't know, why do they do this??)
 <br>
 <br>
-Controls:
+<br>
+<br>
+#Controls:
 
 left, right arrow key to move horizontally
 
