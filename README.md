@@ -1,12 +1,16 @@
 # little-cat
-a game for jame gam game jam 2026
+a game for jame gam game jam 2026 October
+
+You are a little cat.
+And you should mess with fragiles.
+(I don't know, why do they do this??)
 
 Controls:
-arrow keys to move horizontally
+left, right arrow key to move horizontally
 
 Z to jump
 
 X to attack
 
-Z + down arrow key to jump down
+Z + down arrow key to jump down the platform
 
