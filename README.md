@@ -3,7 +3,11 @@ a game for jame gam game jam 2026 October
 
 You are a little cat.
 And you should mess with fragiles.
-(I don't know, why do they do this??)\
+(I don't know, why do they do this??)
+
+
+
+
 
 Controls:
 left, right arrow key to move horizontally
